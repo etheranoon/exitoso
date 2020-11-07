@@ -686,16 +686,8 @@ section.lazy-placeholder:after {
 }
 .cid-sfrZIlfd5U {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 45px;
   background-color: #232323;
-}
-.cid-sfFbhMLefA {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-sfFbhMLefA .mbr-section-subtitle {
-  color: #767676;
 }
 .cid-sfFaVjHvso {
   background: #ffffff;
@@ -721,6 +713,17 @@ section.lazy-placeholder:after {
 .cid-sfFaVjHvso DIV {
   color: #ffffff;
 }
+.cid-sfFbhMLefA {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
+}
+.cid-sfFbhMLefA .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-sfFbhMLefA H2 {
+  color: #ffffff;
+}
 .cid-sfFaU4t4NZ {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -731,6 +734,11 @@ section.lazy-placeholder:after {
 }
 .cid-sfFaU4t4NZ H2 {
   text-align: left;
+}
+.cid-sfFzwHp8I4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #232323;
 }
 .cid-sfFgiHz1iT {
   padding-top: 0px;
@@ -832,11 +840,14 @@ section.lazy-placeholder:after {
   background-color: #efefef;
 }
 .cid-sfFixG2XoB .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
+}
+.cid-sfFixG2XoB H2 {
+  color: #ffffff;
 }
 .cid-sfFvFpY8ZO {
-  padding-top: 45px;
-  padding-bottom: 90px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background: linear-gradient(45deg, #cc2952, #ff7f9f);
 }
 .cid-sfFvFpY8ZO .mbr-section-subtitle {
@@ -865,7 +876,7 @@ section.lazy-placeholder:after {
 }
 .cid-sfFvMCrLcX {
   padding-top: 15px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background: linear-gradient(45deg, #cc2952, #ff7f9f);
 }
 .cid-sfFvMCrLcX .mbr-section-subtitle {
@@ -1075,7 +1086,10 @@ section.lazy-placeholder:after {
   background-color: #ffffff;
 }
 .cid-sfETeJPUKm .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
+}
+.cid-sfETeJPUKm H2 {
+  color: #ffffff;
 }
 .cid-sfESQ0x6lW {
   padding-top: 60px;
@@ -1083,7 +1097,10 @@ section.lazy-placeholder:after {
   background-color: #efefef;
 }
 .cid-sfESQ0x6lW .mbr-section-subtitle {
-  color: #767676;
+  color: #ffffff;
+}
+.cid-sfESQ0x6lW H2 {
+  color: #ffffff;
 }
 .cid-sfEGm4CdTj {
   padding-top: 60px;
